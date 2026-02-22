@@ -17,8 +17,11 @@ Hostel fees depend on room type and add-ons. New room types and add-ons will be 
 
 ## 4. Your task
 Checkpoint A: Run and capture output.
+
 Checkpoint B: Encapsulate room pricing and add-on pricing behind abstractions.
+
 Checkpoint C: Remove switch-case from main calculation logic.
+
 Checkpoint D: Preserve output.
 
 ## 5. Constraints
