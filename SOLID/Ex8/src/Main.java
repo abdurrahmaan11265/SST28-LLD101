@@ -1,4 +1,4 @@
-public class Demo08 {
+public class Main {
     public static void main(String[] args) {
         System.out.println("=== Club Admin ===");
         BudgetLedger ledger = new BudgetLedger();

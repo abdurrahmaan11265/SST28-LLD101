@@ -1,4 +1,4 @@
-public class Demo01 {
+public class Main {
     public static void main(String[] args) {
         System.out.println("=== Student Onboarding ===");
         FakeDb db = new FakeDb();
