@@ -6,7 +6,7 @@ A low-level design implementation of a distributed in-memory cache system suppor
 
 ## Class Diagram
 
-<!-- TODO: Add UML class diagram here -->
+![Distributed Cache Class Diagram](image.png)
 
 ---
 

@@ -2,7 +2,7 @@
 
 ## Class Diagram
 
-<!-- Add UML diagram here -->
+![Class Diagram](image.png)
 
 ---
 
